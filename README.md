@@ -7,8 +7,8 @@ DPReachability
 [![Pod License](http://img.shields.io/cocoapods/l/DPReachability.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 ### Dependency
-* `Reachability`
-* `dp_exec_block_on_main_thread`
+* [`Reachability`](https://github.com/tonymillion/Reachability)
+* [`dp_exec_block_on_main_thread`](https://github.com/dnpp73/dp_exec_block_on_main_thread)
 
 ### Require Framework
 * None
